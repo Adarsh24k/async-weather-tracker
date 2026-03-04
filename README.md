@@ -1,30 +1,25 @@
-# Async Weather Tracker
+Async Weather Tracker
 
-Lab Assignment – Web Development II
+Web Dev II Lab Assignment.
 
-This project demonstrates asynchronous JavaScript using the Fetch API to retrieve weather data from the OpenWeatherMap API.
+A simple weather application that fetches real-time weather data using the OpenWeatherMap API and JavaScript async/await.
 
-## Features
+Features
 
-- Search weather by city
-- Displays temperature, humidity, wind, and weather condition
-- Uses async/await with fetch()
-- Handles invalid city errors
-- Demonstrates asynchronous JavaScript behavior
+Search weather by city
 
-## Technologies Used
+Displays temperature, humidity, wind, and weather condition
 
-- HTML5
-- CSS3
-- Vanilla JavaScript
-- OpenWeatherMap API
+Handles invalid city input
 
-## How to Run
+Tech Stack
 
-1. Clone the repository
-2. Open `index.html` in a browser
-3. Enter a city name and click **Search**
+HTML
 
-## Author
+CSS
 
-Student Lab Assignment – Web Dev II
+JavaScript (Fetch API)
+
+Run the Project
+
+Open index.html in your browser and search for a city.
